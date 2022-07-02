@@ -1,8 +1,11 @@
-# wordpair_generator
+# Random Wordpair_generator
 
 A new Flutter project.
 
 ## Getting Started
+A basic Random Word Pair Generator Application, which generates 
+random word pairs which the user can favorite.
+The saved favorite names can be viewed in a separately dedicated menu. 
 
 This project is a starting point for a Flutter application.
 
